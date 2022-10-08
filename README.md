@@ -4,7 +4,22 @@ AKU ALBY</h1>
 
 <p><img align="center" src="https://dl.kaskus.id/i697.photobucket.com/albums/vv340/aumkanyakant/welcome.gif"/></a>
 
-<p><img align="center" src="https://thumbs.gfycat.com/EnchantingCooperativeKomododragon-size_restricted.gif"/></a>
+# Projects
+
+<a href="https://github.com/PunyaAlby/ALBY-Userbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaAlby&repo=ALBY-Userbot&cache_seconds=86400&theme=gotham">
+</a>
+
+<a href="https://github.com/PunyaAlby/ALBY-PYROBOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaAlby&repo=ALBY-PYROBOT&cache_seconds=86400&theme=gotham">
+</a>
+
+
+
+<a href="https://github.com/PunyaAlby/File-Sharing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaAlby&repo=File-Sharing&cache_seconds=86400&theme=gotham">
+</a>
+
 
 ## 📲 Kontak Developer
 ![Profile Dilihat](https://komarev.com/ghpvc/?username=apisuserbot&color=blue&style=plastic&label=Profile+Dilihat)
