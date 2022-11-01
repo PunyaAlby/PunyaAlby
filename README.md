@@ -14,7 +14,9 @@ AKU ALBY</h1>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaAlby&repo=ALBY-PYROBOT&cache_seconds=86400&theme=gotham">
 </a>
 
-
+<a href="https://github.com/PunyaAlby/ALBYMusic">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaAlby&repo=ALBYMusic&cache_seconds=86400&theme=gotham">
+</a>
 
 <a href="https://github.com/PunyaAlby/File-Sharing">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaAlby&repo=File-Sharing&cache_seconds=86400&theme=gotham">
