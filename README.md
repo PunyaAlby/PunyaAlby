@@ -10,10 +10,6 @@ AKU ALBY</h1>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaAlby&repo=ALBY-Userbot&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/PunyaAlby/ALBY-PYROBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaAlby&repo=ALBY-PYROBOT&cache_seconds=86400&theme=gotham">
-</a>
-
 <a href="https://github.com/PunyaAlby/ALBYMusic">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunyaAlby&repo=ALBYMusic&cache_seconds=86400&theme=gotham">
 </a>
@@ -31,14 +27,6 @@ AKU ALBY</h1>
 <a href="https://github.com/PunyaAlby"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a> <a href="https://t.me/Punya_Alby"><img src="https://img.shields.io/badge/Telegram-Find%20Me%20on%20Telegram-blue.svg?logo=telegram"></a> <a href="https://instagram.com/fadzkuruuniialmuttaqiin"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-red.svg?logo=instagram"></a></p>
 
 <p><img align="center" src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"/></a>
-
-### Statistik
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PunyaAlby&theme=react&show_icons=true&count_private=true">
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyaAlby&theme=tokyonight&layout=compact&langs_count=5">
-</div>
 
    <h3 align="left">Bahasa dan Code</h3>
 <p align="left"> <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
